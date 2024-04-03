@@ -1,0 +1,15 @@
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Rlbmods.csproj.AssemblyReference.cache
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Winform.Login.resources
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Winform.Properties.Resources.resources
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Winform.SpooferForm.resources
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Rlbmods.csproj.GenerateResource.cache
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Rlbmods.csproj.CoreCompileInputs.cache
+C:\Users\RayanLB\Desktop\spooofer\Winform\bin\Release\Winform.exe.config
+C:\Users\RayanLB\Desktop\spooofer\Winform\bin\Release\Winform.exe
+C:\Users\RayanLB\Desktop\spooofer\Winform\bin\Release\Winform.pdb
+C:\Users\RayanLB\Desktop\spooofer\Winform\bin\Release\Guna.UI.dll
+C:\Users\RayanLB\Desktop\spooofer\Winform\bin\Release\Guna.UI2.dll
+C:\Users\RayanLB\Desktop\spooofer\Winform\bin\Release\Siticone.UI.dll
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Rlbmods.csproj.CopyComplete
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Winform.exe
+C:\Users\RayanLB\Desktop\spooofer\Winform\obj\Release\Winform.pdb

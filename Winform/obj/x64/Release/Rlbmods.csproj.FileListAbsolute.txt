@@ -1,0 +1,15 @@
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\bin\x64\Release\Winform.exe.config
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\bin\x64\Release\Winform.exe
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\bin\x64\Release\Winform.pdb
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\bin\x64\Release\Guna.UI.dll
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\bin\x64\Release\Guna.UI2.dll
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\bin\x64\Release\Siticone.UI.dll
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Rlbmods.csproj.AssemblyReference.cache
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Winform.Login.resources
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Winform.Properties.Resources.resources
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Rlbmods.csproj.GenerateResource.cache
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Rlbmods.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Rlbmods.csproj.CopyComplete
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Winform.exe
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Winform.pdb
+C:\Users\crazy\Desktop\Rlbmods\Winform\Winform\obj\x64\Release\Winform.SpooferForm.resources
